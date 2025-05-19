@@ -1,8 +1,8 @@
-# 🚀 GitHub Actions CI/CD Pipeline for Java Spring Maven Project
+# 🚀 Jenkins CI/CD Pipeline for Java Spring Maven Project
 
-A simple and effective CI/CD pipeline using **GitHub Actions** for Java Spring applications built with Maven. This guide will help you set up an automated workflow that builds your project and deploys the JAR to a remote server using **SCP**.
+A simple and effective CI/CD pipeline using **Jenkins** for Java Spring applications built with Maven. This guide will help you set up an automated workflow that builds your project and deploys the JAR to a remote server using **SCP**.
 
-🌐 **Project URL**: [http://103.7.4.166:8081/](http://103.7.4.166:8081/)
+🌐 **Project URL**: [http://103.7.4.166:8090/](http://103.7.4.166:8090/)
 
 ---
 
