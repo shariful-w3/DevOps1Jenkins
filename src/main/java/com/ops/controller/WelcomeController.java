@@ -12,7 +12,7 @@ public class WelcomeController {
 
 		model.addAttribute("title", "Title: DevOps Service");
 		model.addAttribute("pageTitle", "Page Title: DevOps Service");
-		model.addAttribute("msg", "Jenkins: Welcome To DepOps CI/CD pipeline demo from Jenkins! [Jenkins]");
+		model.addAttribute("msg", "Jenkins: parvez bhai Welcome To DepOps CI/CD pipeline demo from Jenkins! [Jenkins]");
 		return "index";
 	}
 }
