@@ -1,0 +1,41 @@
+html {
+    font-size: 16px; /* Base font size */
+    font-family: 'Roboto', Arial, sans-serif; /* Clean and professional font */
+}
+
+body {
+    font-size: 1rem; /* Default text size */
+    line-height: 1.5; /* Improve readability */
+    color: #333; /* Dark gray for professional appearance */
+}
+
+h1 {
+    font-size: 2rem; /* Main headers (32px) */
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    font-size: 1.5rem; /* Sub-headers (24px) */
+    margin-bottom: 0.5rem;
+}
+
+h3 {
+    font-size: 1.25rem; /* Section headers (20px) */
+    margin-bottom: 0.5rem;
+}
+
+p, li {
+    font-size: 1rem; /* Body text (16px) */
+    margin-bottom: 0.5rem;
+}
+
+button {
+    font-size: 0.875rem; /* Buttons and smaller text (14px) */
+    font-weight: bold;
+}
+
+small {
+    font-size: 0.75rem; /* Helper text or footnotes (12px) */
+    color: #666; /* Lighter gray for subtle text */
+}
